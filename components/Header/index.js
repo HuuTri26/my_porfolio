@@ -71,9 +71,9 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                 <div className="grid grid-cols-1">
                   <Button onClick={handleWorkScroll}>Projects</Button>
                   <Button onClick={handleAboutScroll}>About</Button>
-                  {showBlog && (
+                  {/* {showBlog && (
                     <Button onClick={() => router.push("/blog")}>Blog</Button>
-                  )}
+                  )} */}
                   {showResume && (
                     <Button
                     // onClick={() =>
@@ -97,9 +97,9 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   <Button onClick={() => router.push("/")} classes="first:ml-1">
                     Home
                   </Button>
-                  {showBlog && (
+                  {/* {showBlog && (
                     <Button onClick={() => router.push("/blog")}>Blog</Button>
-                  )}
+                  )} */}
                   {showResume && (
                     <Button
                       // onClick={() => router.push("/resume")}
@@ -129,22 +129,22 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
           onClick={() => router.push("/")}
           className="font-medium cursor-pointer mob:p-2 laptop:p-0"
         >
-          {name}.
+          {name}
         </h1>
         {!isBlog ? (
           <div className="flex">
             <Button onClick={handleWorkScroll}>Projects</Button>
-            <Button onClick={handleAboutScroll}>About</Button>
-            {showBlog && (
+            {/* <Button onClick={handleAboutScroll}>About</Button> */}
+            {/* {showBlog && (
               <Button onClick={() => router.push("/blog")}>Blog</Button>
-            )}
+            )} */}
             {showResume && (
               <Button
                 // onClick={() => router.push("/resume")}
                 classes="first:ml-1"
               >
-                <a href="https://www.topcv.vn/documents/view/eyJpdiI6IjRBWTUxWi9SSjRxWFdsTWprQ2g2VkE9PSIsInZhbHVlIjoiYjY4UDVRTWZBZThOcktSQmJ6eDRVRHlZa3VtelNrNk9JQ3Rmd2dYb25jOU80NDFZQnFxZ1Rzejc0bWMySTFnN1dGY2dHU05uUU9lbmIwa2J3elQ5cEJSTWY0dktiNzhJdmlHTFp3b05KSG1VSmo4YUxMa3YrV0lFSVQrcmlPaXEiLCJtYWMiOiI1MWRlMzEwOTFmNThkNTYzNTg3NjA0YjZmOTc3NTE5YzBlNmY2NDViMWQyMmY1OWNiOGU3ODBlMjhkYWE5YjY4IiwidGFnIjoiIn0=#toolbar=0&navpanes=0&scrollbar=0">
-                  Resume
+                <a href="https://www.topcv.vn/xem-cv/B1MIAQcGBVBXU1tRUgcGVQNVBQBQBAQAVw1RUQ078e">
+                  My CV
                 </a>
               </Button>
             )}
@@ -178,9 +178,9 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               </Button>
             )}
 
-            <Button onClick={() => window.open("mailto:hello@chetanverma.com")}>
+            {/* <Button onClick={() => window.open("mailto:hello@chetanverma.com")}>
               Contact
-            </Button>
+            </Button> */}
 
             {mounted && theme && data.darkMode && (
               <Button

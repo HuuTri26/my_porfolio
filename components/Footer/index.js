@@ -36,10 +36,10 @@ const Footer = () => {
     "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.447176463989!2d106.69542821474863!3d10.77701489232085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f36a5a2a22b%3A0x86e0952c6a2e2d8e!2zQ2jhu6MgQuG6v24gVGjDoG5o!5e0!3m2!1svi!2s!4v1671089252378!5m2!1svi!2s";
 
   return (
-    <footer className="mt-10 laptop:mt-20 p-8 laptop:p-16">
+    <footer className="mt-10 laptop:mt-40 p-2 laptop:p-0">
       <div className="container mx-auto">
         {/* Phần nội dung chính của Footer */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-10 laptop:gap-20">
+        <div className="grid grid-cols-1 tablet:grid-cols-2 gap-10 laptop:gap-20">
           {/* Cột trái: Lời kêu gọi hành động */}
           <div className="flex flex-col justify-center">
             <h2 className="text-2xl font-bold mb-4">Contact.</h2>
@@ -62,7 +62,7 @@ const Footer = () => {
 
           {/* Cột phải: Thông tin liên hệ và bản đồ */}
           <div>
-            <h3 className="text-2xl font-bold mb-6">Thông tin liên hệ</h3>
+            <h3 className="text-2xl font-bold mb-6">Contact</h3>
             <ul className="space-y-4 text-lg">
               <li className="flex items-center">
                 <FaUser className="mr-3 text-blue-500" size={20} />
@@ -91,22 +91,21 @@ const Footer = () => {
                 <span>{contactInfo.address}</span>
               </li>
             </ul>
-
-            {/* Google Map */}
-            <div className="mt-8">
-              <div className="overflow-hidden rounded-lg shadow-lg">
-                <iframe
-                  src={mapEmbedSrc}
-                  width="100%"
-                  height="250"
-                  style={{ border: 0 }}
-                  allowFullScreen=""
-                  loading="lazy"
-                  referrerPolicy="no-referrer-when-downgrade"
-                  title="Google Maps Location"
-                ></iframe>
-              </div>
-            </div>
+          </div>
+        </div>
+        {/* Google Map */}
+        <div className="mt-8">
+          <div className="overflow-hidden rounded-lg shadow-lg">
+            <iframe
+              src={mapEmbedSrc}
+              width="100%"
+              height="250"
+              style={{ border: 0 }}
+              allowFullScreen=""
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+              title="Google Maps Location"
+            ></iframe>
           </div>
         </div>
 

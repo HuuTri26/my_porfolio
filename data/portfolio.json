@@ -11,33 +11,30 @@
   "socials": [
     { "id": "1", "title": "Github", "link": "https://github.com/HuuTri26" },
     { "id": "2", "title": "LinkedIn", "link": "https://www.linkedin.com/in/tri-bui-a59734356/" },
-    { "id": "3", "title": "Twitter", "link": "https://x.com/dmaster26_" },
-    { "id": "4", "title": "Blog", "link": "https://x.com/dmaster26_" },
-    { "id": "5", "title": "Email", "link": "huutri10a3vvk@gmail.com" }
+    { "id": "3", "title": "Twitter", "link": "https://x.com/dmaster26_" }
   ],
   "projects": [
     {
       "id": "1",
       "title": "AgrApp Grocery App",
-      "description": "Full-stack Development",
+      "description": "Front-end Development",
       "imageSrc": "/images/signup_background.png",
       "url": "https://github.com/HuuTri26/argapp"
     },
     {
       "id": "2",
-      "title": "AgrApp Grocery Website",
+      "title": "Agr Grocery Website",
       "description": "Full-stack Development",
       "imageSrc": "/images/p-12.jpg",
       "url": "https://github.com/HuuTri26/agrStore"
     },
     {
       "id": "3",
-      "title": "LSTM-CNN-Transformer_Multi_Models_Detect-_Phising_URL",
+      "title": "Booking Health",
       "description": "Full-stack Development",
-      "imageSrc": "/images/what-is-phishing-02.avif",
-      "url": "https://github.com/HuuTri26/LSTM-CNN-Transformer_Multi_Models_Detect-_Phising_URL"
-    },
-    {
+      "imageSrc": "/images/camnang.jpg",
+      "url": "https://github.com/HuuTri26/booking_health_backend"
+    }, {
       "id": "4",
       "title": "Thuenguoigiupviec",
       "description": "Full-stack Development",
@@ -46,29 +43,31 @@
     },
     {
       "id": "5",
-      "title": "Multi-Labels-URLs-Detection",
-      "description": "Full-stack Development",
-      "imageSrc": "/images/futureinternet-14-00340-g001.png",
-      "url": "https://github.com/HuuTri26/Multi-Labels-URLs-Detection"
+      "title": "LSTM-CNN-Transformer_Multi_Models_Detect-_Phising_URL",
+      "description": "Back-end Development",
+      "imageSrc": "/images/what-is-phishing-02.avif",
+      "url": "https://github.com/HuuTri26/LSTM-CNN-Transformer_Multi_Models_Detect-_PhisingURL"
     },
+   
     {
       "id": "6",
-      "title": "Booking Health",
-      "description": "Full-stack Development",
-      "imageSrc": "/images/camnang.jpg",
-      "url": "https://github.com/HuuTri26/bookinghealth"
+      "title": "Multi-Labels-URLs-Detection",
+      "description": "Back-end Development",
+      "imageSrc": "/images/futureinternet-14-00340-g001.png",
+      "url": "https://github.com/HuuTri26/Multi-Labels-URLs-Detection"
     }
+   
   ],
   "services": [
     {
       "id": "1",
       "title": "Web Development",
-      "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+      "description": "Help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
     },
     {
       "id": "2",
       "title": "Mobile Development",
-      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+      "description": "Design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
     },
     {
       "id": "3",
