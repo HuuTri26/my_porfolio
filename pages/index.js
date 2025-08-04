@@ -115,14 +115,14 @@ export default function Home() {
               <Socials className="mt-5 laptop:mt-10" />
             </div>
             <div className="w-full laptop:w-1/4 flex justify-center mt-10 laptop:mt-0">
-              <Image
+              <img
                 src="/images/me.jpg"
                 alt="Ảnh chân dung của Tri Huu Bui"
                 width={500}
                 height={500}
                 className="rounded-full object-cover w-60 h-60 tablet:w-80 tablet:h-80 laptop:w-96 laptop:h-96 shadow-xl"
                 priority
-              />
+              ></img>
             </div>
           </div>
         </div>
