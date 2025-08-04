@@ -1,0 +1,134 @@
+{
+  "name": "Tri Huu Bui",
+  "headerTaglineOne": "Hello",
+  "headerTaglineTwo": "My name is Tri Huu Bui",
+  "headerTaglineThree": "Web & App devloper",
+  "headerTaglineFour": "based in Ho Chi Minh, Vietnam.",
+  "showCursor": true,
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    { "id": "1", "title": "Github", "link": "https://github.com/HuuTri26" },
+    { "id": "2", "title": "LinkedIn", "link": "https://www.linkedin.com/in/tri-bui-a59734356/" },
+    { "id": "3", "title": "Twitter", "link": "https://x.com/dmaster26_" },
+    { "id": "4", "title": "Blog", "link": "https://x.com/dmaster26_" },
+    { "id": "5", "title": "Email", "link": "huutri10a3vvk@gmail.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "AgrApp Grocery App",
+      "description": "Full-stack Development",
+      "imageSrc": "/images/signup_background.png",
+      "url": "https://github.com/HuuTri26/argapp"
+    },
+    {
+      "id": "2",
+      "title": "AgrApp Grocery Website",
+      "description": "Full-stack Development",
+      "imageSrc": "/images/p-12.jpg",
+      "url": "https://github.com/HuuTri26/agrStore"
+    },
+    {
+      "id": "3",
+      "title": "LSTM-CNN-Transformer_Multi_Models_Detect-_Phising_URL",
+      "description": "Full-stack Development",
+      "imageSrc": "/images/what-is-phishing-02.avif",
+      "url": "https://github.com/HuuTri26/LSTM-CNN-Transformer_Multi_Models_Detect-_Phising_URL"
+    },
+    {
+      "id": "4",
+      "title": "Thuenguoigiupviec",
+      "description": "Full-stack Development",
+      "imageSrc": "/images/hero-bg.jpg",
+      "url": "https://github.com/HuuTri26/thuenguoigiupviec"
+    },
+    {
+      "id": "5",
+      "title": "Multi-Labels-URLs-Detection",
+      "description": "Full-stack Development",
+      "imageSrc": "/images/futureinternet-14-00340-g001.png",
+      "url": "https://github.com/HuuTri26/Multi-Labels-URLs-Detection"
+    },
+    {
+      "id": "6",
+      "title": "Booking Health",
+      "description": "Full-stack Development",
+      "imageSrc": "/images/camnang.jpg",
+      "url": "https://github.com/HuuTri26/bookinghealth"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Web Development",
+      "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+    },
+    {
+      "id": "2",
+      "title": "Mobile Development",
+      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+    },
+    {
+      "id": "3",
+      "title": "Web Design",
+      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+    },
+    {
+      "id": "4",
+      "title": "Data Analysis",
+      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+    }
+  ],
+  "aboutpara": "I am a software engineer with a passion for building web and mobile applications. I am a quick learner and I am always looking for new challenges.",
+  "resume": {
+    "tagline": "I'm a software engineer, product designer.",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2025 - Present",
+        "type": "Full Time",
+        "position": "Software Engineer at AgrApp",
+        "bullets": [
+            "Worked on the frontend of a React application",
+            "Worked on the backend of a React application"
+          ]
+      },
+      {
+        "id": "2",
+        "dates": "March 2022 - March 2025",
+        "type": "Full Time",
+        "position": "Software Engineer at AgrApp",
+        "bullets": ["Worked on the frontend of a React application"]
+      }
+    ],
+    "education": {
+        "universityName": "Posts and Telecommunications Institute of Technology, Ho Chi Minh City",
+        "universityDate": "2021-2026",
+        "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+      },
+    "languages": [
+      "Javascript",
+      "HTML5",
+      "CSS",
+      "Python",
+      "Tailwind",
+      "Java",
+      "C++"
+    ],
+    "frameworks": [
+      "React",
+      "NodeJs",
+      "Bootsrap",
+      "Flask"
+    ],
+    "others": [
+      "AWS",
+      "Git",
+      "Docker",
+      "MySQL"
+    ]
+  }
+}

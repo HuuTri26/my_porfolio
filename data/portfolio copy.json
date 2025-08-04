@@ -1,0 +1,126 @@
+{
+  "name": "Tri Huu Bui",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "My name is Tri Huu Bui",
+  "headerTaglineThree": "Web & App devloper",
+  "headerTaglineFour": "based in Ho Chi Minh, Vietnam",
+  "showBlog": true,
+  "darkMode": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/HuuTri26"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/tri-bui-a59734356/"
+    },
+    {
+      "id": "3",
+      "title": "Twitter",
+      "link": "https://x.com/dmaster26_"
+    },
+    { "id": "4", "title": "Blog", "link": "https://x.com/dmaster26_" },
+    { "id": "5", "title": "Email", "link": "huutri10a3vvk@gmail.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "AgrApp Grocery App",
+      "description": "Full-stack Development",
+      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/HuuTri26/argapp"
+    },
+    {
+      "id": "2",
+      "title": "AgrApp Grocery Website",
+      "description": "Full-stack Development",
+      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/HuuTri26/agrStore"
+    },
+    {
+      "id": "3",
+      "title": "LSTM-CNN-Transformer_Multi_Models_Detect-_Phising_URL",
+      "description": "Full-stack Development",
+      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/HuuTri26/LSTM-CNN-Transformer_Multi_Models_Detect-_Phising_URL"
+    },
+    {
+      "id": "4",
+      "title": "Thuenguoigiupviec",
+      "description": "Full-stack Development",
+      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/HuuTri26/thuenguoigiupviec"
+    },
+    {
+      "id": "5",
+      "title": "Multi-Labels-URLs-Detection",
+      "description": "Full-stack Development",
+      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/HuuTri26/Multi-Labels-URLs-Detection"
+    },
+    {
+      "id": "6",
+      "title": "Booking Health",
+      "description": "Full-stack Development",
+      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "https://github.com/HuuTri26/bookinghealth"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+        "title": "Web Development",
+        "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+    },
+    {
+      "id": "2",
+      "title": "Mobile Development",
+      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors and create a unique and memorable brand identity."
+    },
+    {
+      "id": "3",
+      "title": "AI Development",
+      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+    },
+    {
+      "id": "4",
+      "title": "Data Analysis",
+      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+    }
+  ],
+  "aboutpara": "I am a software engineer with a passion for building web and mobile applications. I am a quick learner and I am always looking for new challenges.",
+  "resume": {
+    "tagline": "👋  I'm a software engineer, product designer, and maker.",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2025 - Present",
+        "type": "Full Time, ",
+        "position": "Software Engineer at AgrApp",
+        "bullets": [
+          "Worked on the frontend of a React application",
+          "Worked on the backend of a React application"
+        ]
+      },
+      {
+        "id": "2",
+        "dates": "March 2022 - March 2025",
+        "type": "Full Time",
+        "position": "Software Engineer at AgrApp",
+        "bullets": ["Worked on the frontend of a React application"]
+      }
+    ],
+    "education": {
+      "universityName": "Posts and Telecommunications Institute of Technology, Ho Chi Minh City",
+      "universityDate": "2021-2026",
+      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Python","Tailwind","Java","C++"],
+    "frameworks": ["React", "Typescript", "NodeJs","Bootsrap","Django","Flask","FastAPI"],
+    "others": ["Figma", "AWS","Git","Docker","Kubernetes","PostgreSQL","MySQL","MongoDB"]
+  }
+}
