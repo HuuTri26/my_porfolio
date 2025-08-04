@@ -116,7 +116,7 @@ export default function Home() {
             </div>
             <div className="w-full laptop:w-1/4 flex justify-center mt-10 laptop:mt-0">
               <Image
-                src="/images/z5056212595998_c79167f318802274e6b8d27ef1825d4c.jpg"
+                src="/images/me.jpg"
                 alt="Ảnh chân dung của Tri Huu Bui"
                 width={500}
                 height={500}
