@@ -1,0 +1,36 @@
+{
+  "vi": {
+    "headerTaglineOne": "Chào mừng đến với portfolio của tôi",
+    "headerTaglineTwo": "Tôi là Tri Huu Bui",
+    "about": {
+      "title": "Về tôi",
+      "description": "Tôi là một lập trình viên web với kinh nghiệm trong việc tạo ra các ứng dụng web hiện đại và hiệu quả. Tôi chuyên về React.js, Next.js, và các công nghệ web mới nhất."
+    },
+    "work": {
+      "title": "Dự án",
+      "viewAll": "Xem tất cả"
+    },
+    "contact": {
+      "title": "Liên hệ",
+      "email": "Email",
+      "phone": "Điện thoại"
+    }
+  },
+  "en": {
+    "headerTaglineOne": "Welcome to my portfolio",
+    "headerTaglineTwo": "I am Tri Huu Bui",
+    "about": {
+      "title": "About me",
+      "description": "I am a web developer with experience in creating modern and efficient web applications. I specialize in React.js, Next.js, and the latest web technologies."
+    },
+    "work": {
+      "title": "Projects",
+      "viewAll": "View all"
+    },
+    "contact": {
+      "title": "Contact",
+      "email": "Email",
+      "phone": "Phone"
+    }
+  }
+}
